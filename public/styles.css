@@ -1,4 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap&text=0123456789:');
+
 h1 {
-  font-family: monospace;
+  font-family: 'Share Tech Mono', monospace;
   font-size: 16vw;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
