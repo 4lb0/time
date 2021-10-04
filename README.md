@@ -2,4 +2,4 @@
 
 Simple time app
 
-Visit [https://time.albo.ar](time.albo.ar)
+Live in [time.albo.ar](https://time.albo.ar)
