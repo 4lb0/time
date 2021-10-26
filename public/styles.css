@@ -8,9 +8,3 @@ h1 {
 [v-cloak] {
   display: none;
 }
-
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
